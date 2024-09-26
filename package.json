@@ -1,0 +1,16 @@
+{
+  "name": "javascript-hacker-edition-jest-functions-2.0",
+  "version": "1.0.0",
+  "description": "Neste desafio, você colocará à prova seus conhecimentos sobre funções e testes unitários. O objetivo é implementar diversas funções no arquivo `src/index.js` e garantir que todas elas sejam devidamente testadas através de testes unitários no arquivo  `__tests__/index.test.js`.",
+  "main": "index.js",
+  "scripts": {
+     "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
